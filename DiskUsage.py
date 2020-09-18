@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import sys
 import os
 import pandas as pd
@@ -33,4 +34,6 @@ if __name__=='__main__':
         df=pd.DataFrame(usage_dic)
         print(df)
         df.to_csv("Disk_Home_Usage.csv")
+=======
+>>>>>>> 5e2dc908c0f93196e8178a8ed2a4b84495c9dfa5
 
